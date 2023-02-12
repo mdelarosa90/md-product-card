@@ -38,16 +38,16 @@
     "singleQuote": true,
     "trailingComma": "es5"
   },
-  "name": "md-product-card",
+  "name": "mdp-product-card",
   "author": "Michel De La Rosa",
-  "module": "dist/md-product-card.esm.js",
+  "module": "dist/mdp-product-card.esm.js",
   "size-limit": [
     {
-      "path": "dist/md-product-card.cjs.production.min.js",
+      "path": "dist/mdp-product-card.cjs.production.min.js",
       "limit": "10 KB"
     },
     {
-      "path": "dist/md-product-card.esm.js",
+      "path": "dist/mdp-product-card.esm.js",
       "limit": "10 KB"
     }
   ],
